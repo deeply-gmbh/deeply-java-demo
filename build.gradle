@@ -1,0 +1,29 @@
+group 'de.deeply'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'application'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+mainClassName = "de.deeply.java_demo.Demo"
+
+
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+
+run {
+    systemProperty "java.library.path", 'libs'
+}
+
+test {
+    systemProperty "java.library.path", 'libs'
+}

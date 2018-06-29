@@ -1,0 +1,4 @@
+rootProject.name = 'java-demo'
+include 'demo'
+findProject(':demo')?.name = 'java-demo'
+

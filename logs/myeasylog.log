@@ -1,0 +1,9 @@
+2018-06-29 11:42:48,127 DEBUG [default] [rufto@unknown-host] [auto deeply::detail::(anonymous namespace)::(anonymous class)::operator()() const] [/Users/rufto/dev/deeply-sdk/src/deeply/detail/camera/OpenCvCamera.cpp:47] OpenCvCamera::Scanner: could open camera with index 0
+2018-06-29 11:46:40,212 DEBUG [default] [rufto@unknown-host] [auto deeply::detail::(anonymous namespace)::(anonymous class)::operator()() const] [/Users/rufto/dev/deeply-sdk/src/deeply/detail/camera/OpenCvCamera.cpp:47] OpenCvCamera::Scanner: could open camera with index 0
+2018-06-29 11:49:20,339 DEBUG [default] [rufto@unknown-host] [auto deeply::detail::(anonymous namespace)::(anonymous class)::operator()() const] [/Users/rufto/dev/deeply-sdk/src/deeply/detail/camera/OpenCvCamera.cpp:47] OpenCvCamera::Scanner: could open camera with index 0
+2018-06-29 11:52:42,886 DEBUG [default] [rufto@unknown-host] [auto deeply::detail::(anonymous namespace)::(anonymous class)::operator()() const] [/Users/rufto/dev/deeply-sdk/src/deeply/detail/camera/OpenCvCamera.cpp:47] OpenCvCamera::Scanner: could open camera with index 0
+2018-06-29 11:52:54,256 ERROR [default] SHORE: ERROR in Engine::Process: caught an unknown exception
+
+
+2018-06-29 11:53:34,269 DEBUG [default] [rufto@unknown-host] [auto deeply::detail::(anonymous namespace)::(anonymous class)::operator()() const] [/Users/rufto/dev/deeply-sdk/src/deeply/detail/camera/OpenCvCamera.cpp:47] OpenCvCamera::Scanner: could open camera with index 0
+2018-06-29 12:23:02,937 DEBUG [default] [rufto@unknown-host] [auto deeply::detail::(anonymous namespace)::(anonymous class)::operator()() const] [/Users/rufto/dev/deeply-sdk/src/deeply/detail/camera/OpenCvCamera.cpp:47] OpenCvCamera::Scanner: could open camera with index 0
