@@ -19,7 +19,7 @@ cp ~/deeply-java-v0.1.0/*deeply* ~/deeply-java-demo/libs
 You also need to copy your license.txt to the project root dir.
 
 ```
-cp ~/license.txt ~/deeply-java-demo/libs
+cp ~/license.txt ~/deeply-java-demo
 ```
 
 ### Gradle
